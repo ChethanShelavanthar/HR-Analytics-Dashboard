@@ -30,4 +30,4 @@ Data Modeling
 KPI Design
 
 Screenshot / Demo
-Example: [Dashboard Preview] 
+Example: [Dashboard Preview] https://github.com/ChethanShelavanthar/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
